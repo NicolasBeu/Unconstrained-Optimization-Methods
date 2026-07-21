@@ -36,8 +36,14 @@ The large coefficient of $100$ heavily amplifies the curvature along the $(x_2 -
 
 ## Visualizations
 
-### Method Trajectories
-![Optimization Trajectories](./assets/optimization_trajectories.png)
+### Gradient Descent Trajectory
+![Gradient Descent](./assets/Gradient%20Descent.png)
+
+### Newton's Method Trajectory
+![Newton's Method](./assets/Newton's%20Method.png)
+
+### Conjugate Gradient Trajectory
+![Conjugate Gradient](./assets/Conjugate%20Gradient.png)
 
 ### Zoomed-in Valley Behavior
 ![Zoomed Valley](./assets/zoomed_valley.png)
